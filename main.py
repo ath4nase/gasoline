@@ -1,7 +1,6 @@
-import stat_study as st
 import iterative_rounding as ir
 import gurobipy as gp
-import generalisedInstance as ins
+import generalised_instance as ins
 
 from alive_progress import alive_bar
 
